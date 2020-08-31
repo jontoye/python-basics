@@ -7,5 +7,10 @@ def main(msg):
 def secondary():
     print("New function")
 
+def tertiary():
+    print("Another function")
+
+    
+
 main("Hello people")
 
