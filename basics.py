@@ -10,7 +10,7 @@ def secondary():
 def tertiary():
     print("Another function")
 
-    
+
 
 main("Hello people")
 
