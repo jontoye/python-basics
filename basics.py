@@ -1,10 +1,7 @@
 #!/usr/bin/python3.8
 
-student_grades = [9.3, 7.8, 10, 10, 6.4, 10]
+def main(msg):
+    print(msg)
 
-mean = sum(student_grades) / len(student_grades)
+main("Hello people")
 
-print(mean)
-print(student_grades.count(10))
-
-print("Goodbye!")
